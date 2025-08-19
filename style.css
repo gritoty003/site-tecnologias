@@ -1,0 +1,31 @@
+p{
+    padding: 5px;
+    margin: 0;
+    box-sizing: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+padding: 50px;
+color: blue;
+}
+
+img{
+
+    display: block;
+  margin: 0 auto;
+  width: 200px;
+    
+}
+
+a{
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    font-size: 30px;
+}
+
+body{
+    background-color: beige;
+}
